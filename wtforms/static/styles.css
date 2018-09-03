@@ -1,3 +1,7 @@
 .success {
-  font-size: 48px;
+  font-size: 2em;
+}
+
+.error {
+  font-size: 3em;
 }
